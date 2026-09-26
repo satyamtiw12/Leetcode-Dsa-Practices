@@ -1,0 +1,22 @@
+class Solution {
+    public int hIndex(int[] citations) {
+        int i=0,n=citations.length-1,j=n;
+        
+        Arrays.sort(citations);
+        int ans=0;
+        while(i<=j){
+            int mid=i+(j-i)/2;
+            
+            int count=n-mid+1;
+
+            if(count<=citations[mid]){
+                ans=count;
+                j=mid-1;
+            }else{
+                i=mid+1;
+            }
+        }
+        
+        return ans;
+    }
+}
