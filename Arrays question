@@ -1,0 +1,77 @@
+Part 1 — Array basics (1–10)
+No.	Question	Practice link
+1	Largest Element	GFG
+2	Smallest Element	Search GFG
+3	Second Largest Element	GFG
+4	Reverse an Array	GFG
+5	Check if Array Is Sorted	LeetCode 1752
+6	Linear Search	GFG
+7	Sum and Average	Practice search
+8	Count Even and Odd	Practice search
+9	Left Rotate by One	GFG
+10	Right Rotate by One	Practice search
+
+Part 2 — Basic problem-solving (11–20)
+No.	Question	Practice link
+11	Rotate Array by K	LeetCode 189
+12	Move Zeroes	LeetCode 283
+13	Remove Duplicates from Sorted Array	LeetCode 26
+14	Missing Number	LeetCode 268
+15	Single Number (XOR)	LeetCode 136
+16	Contains Duplicate	LeetCode 217
+17	Majority Element	LeetCode 169
+18	Leaders in an Array	GFG
+19	Max Consecutive Ones	LeetCode 485
+20	Union of Two Sorted Arrays	Practice search
+
+Part 3 — Frequency and hashing (21–30)
+No.	Question	Practice link
+21	Frequency of Elements	GFG
+22	Find Duplicate Elements	LeetCode 442
+23	Elements Appearing Once	LeetCode 136
+24	Intersection of Two Arrays	LeetCode 349
+25	Two Sum	LeetCode 1
+26	Longest Consecutive Sequence	LeetCode 128
+27	Subarray Sum Equals K	LeetCode 560
+28	Count Subarrays with Given Sum	GFG
+29	Longest Subarray with Sum K	GFG
+30	Element Appearing More Than N/2 Times	LeetCode 169
+
+Part 4 — Searching and sorting (31–40)
+No.	Question	Practice link
+31	Binary Search	LeetCode 704
+32	Lower Bound and Upper Bound	GFG
+33	First and Last Position	LeetCode 34
+34	Search Insert Position	LeetCode 35
+35	Search in Rotated Sorted Array	LeetCode 33
+36	Minimum in Rotated Sorted Array	LeetCode 153
+37	Find Peak Element	LeetCode 162
+38	Bubble Sort	GFG
+39	Selection Sort	GFG
+40	Insertion Sort	GFG
+
+Part 5 — Two pointers and sliding window (41–50)
+No.	Question	Practice link
+41	Pair Sum in Sorted Array	LeetCode 167
+42	Sort 0s, 1s and 2s	LeetCode 75
+43	Merge Two Sorted Arrays	LeetCode 88
+44	Container With Most Water	LeetCode 11
+45	3Sum	LeetCode 15
+46	Maximum Sum Subarray of Size K	Practice search
+47	Longest Subarray with at Most K Distinct Values	Practice search
+48	Minimum Size Subarray Sum	LeetCode 209
+49	Best Time to Buy and Sell Stock	LeetCode 121
+50	Trapping Rain Water	LeetCode 42
+
+Part 6 — Prefix sum and advanced arrays (51–60)
+No.	Question	Practice link
+51	Maximum Subarray Sum (Kadane)	LeetCode 53
+52	Maximum Product Subarray	LeetCode 152
+53	Product of Array Except Self	LeetCode 238
+54	Range Sum Queries	LeetCode 303
+55	Equilibrium Index	GFG
+56	Pivot Index	LeetCode 724
+57	Next Permutation	LeetCode 31
+58	Merge Overlapping Intervals	LeetCode 56
+59	Set Matrix Zeroes	LeetCode 73
+60	Spiral Matrix	LeetCode 54
